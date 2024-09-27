@@ -1,3 +1,5 @@
+![IMDb](https://img3.aksam.com.tr/fotogaleri/galeri/2022/10/27/2710202216668814865fc058bc.jpg)
+
 # IMDB_Movie-_Scoring_and_Sorting
 
 ## IMDB Weighted Rating Formula
